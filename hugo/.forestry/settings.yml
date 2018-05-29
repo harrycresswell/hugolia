@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: 
-webhook_url: 
+webhook_url: https://wt-accba830f1ac7a6e3bfbe6f9406b858a-0.sandbox.auth0-extend.com/atomic-algolia-dev-main
 sections: 
 upload_dir: hugo/uploads
 public_path: "/uploads"
