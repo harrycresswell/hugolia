@@ -18,4 +18,5 @@ fields:
   hidden: false
   default: true
 pages:
+- posts/my-sixth-post.md
 - posts/my-fifth-post.md
