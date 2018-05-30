@@ -1,5 +1,7 @@
 ---
-title: "Homepage"
+title: Homepage
+type: page
+
 ---
 Hello world! I'm `content/_index.md`
 

@@ -1,6 +1,7 @@
 ---
-title:  "Welcome to Hugo!"
-date: "2018-01-01T12:42:00-00:00"
+title: Welcome to Hugo!
+date: 2018-01-01 12:42:00 +0000
+
 ---
 You’ll find this post in your `content/posts` directory.
 
