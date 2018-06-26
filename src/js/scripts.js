@@ -34,6 +34,7 @@ search.addWidget(
 // create variable for custom hit template
 var hitTemplate =
   '<a href="{{ relpermalink }}" class="List__item">' +
+        '<div class="List-image">{{{featuredimage}}}</div>' +
         '<div class="List-title">{{{_highlightResult.title.value}}}</div>' +
   '</a>' + '<div class="List-summary">{{{summary}}}</div>';
 
