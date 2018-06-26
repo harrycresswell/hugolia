@@ -1,0 +1,19 @@
+<!-- Load jquery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script>
+// load jQuery from a local path if the CDN is unavailable
+(window.jQuery || document.write('<script src="node_modules/jquery/dist/jquery.min.js"><\/script>'));
+</script>
+
+<!-- Load Algolia Instant Search -->
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.0"></script>
+<script async src="{{ "/js/scripts.min.js" | relURL }}" type="text/javascript"></script>
+
+<!-- Load responsive images via Cloudinary -->
+<script src="cloudinary-core-shrinkwrap.min.js"></script>
+
+<script>
+    var cl = cloudinary.Cloudinary.new({cloud_name: "dagngxlx5"});
+    // replace 'dagngxlx5' with your cloud name in the line above
+    cl.responsive();
+</script>
