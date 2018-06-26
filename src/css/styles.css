@@ -13,3 +13,10 @@ body {
 img {
   max-width: 100%;
 }
+
+.Search-hits {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  grid-gap: 32px;
+}
