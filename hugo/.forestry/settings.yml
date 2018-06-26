@@ -4,9 +4,9 @@ auto_deploy: true
 admin_path: 
 webhook_url: https://wt-accba830f1ac7a6e3bfbe6f9406b858a-0.sandbox.auth0-extend.com/atomic-algolia-dev-main
 sections: 
-upload_dir: hugo/uploads
-public_path: "/uploads"
+upload_dir: ''
+public_path: https://res.cloudinary.com/dagngxlx5/image/upload
 front_matter_path: ''
-use_front_matter_path: false
-file_template: ":year:/:month:/:day:/:filename:"
+use_front_matter_path: 
+file_template: ":filename:"
 version: 0.38.1

@@ -18,5 +18,5 @@ fields:
   hidden: false
   default: true
 pages:
-- posts/my-sixth-post.md
-- posts/my-fifth-post.md
+- hugo/content/posts/my-sixth-post.md
+- hugo/content/posts/my-fifth-post.md
