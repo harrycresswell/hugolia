@@ -8,3 +8,8 @@ fields:
 - type: datetime
   label: Date
   name: date
+- type: textarea
+  name: featuredimage
+  label: Featured Image
+  config:
+    required: true
