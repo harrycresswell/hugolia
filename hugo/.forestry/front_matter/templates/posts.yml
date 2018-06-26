@@ -13,3 +13,5 @@ fields:
   label: Featured Image
   config:
     required: true
+pages:
+- hugo/content/posts/nine.md
