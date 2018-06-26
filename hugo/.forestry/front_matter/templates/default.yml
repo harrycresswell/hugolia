@@ -18,5 +18,6 @@ fields:
   hidden: false
   default: true
 pages:
+- hugo/content/posts/seven.md
 - hugo/content/posts/my-sixth-post.md
 - hugo/content/posts/my-fifth-post.md
