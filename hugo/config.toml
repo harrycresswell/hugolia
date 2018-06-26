@@ -21,7 +21,7 @@ notAlternative = true
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 [params]
-author = "Your name"
+author = "Harry Cresswell"
 description = "Write an awesome description for your new site here. You can edit this\nline in config.yml. It will appear in your document head meta (for\nGoogle search results) and in your RSS feed description.\n"
 [params.algolia]
 params = ["featuredimage", "categories", "tags"]
