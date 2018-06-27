@@ -5,9 +5,6 @@ featuredimage: v1529939100/rose-beer-beauty-072.jpg
 tags:
 - Tools
 - Design
-undefined:
-- Finance
-- Design
 
 ---
 {{< cld src="v1529939100/rose-beer-beauty-072.jpg" >}}

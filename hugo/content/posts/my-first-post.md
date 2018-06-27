@@ -5,9 +5,6 @@ featuredimage: v1529939102/rose-beer-beauty-037.jpg
 tags:
 - Tech
 - Design
-undefined:
-- HR
-- Recruitment
 
 ---
 ## Hello world

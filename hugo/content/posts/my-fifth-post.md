@@ -4,7 +4,6 @@ draft = false
 featuredimage = "v1529938792/rose-beer-beauty-.jpg"
 tags = ["Legal", "Finance"]
 title = "My Fifth Post"
-undefined = ["HR", "Recruitment"]
 
 +++
 This is my fifth post!

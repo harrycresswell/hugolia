@@ -2,9 +2,6 @@
 title: Welcome to Hugo!
 date: 2018-01-01 12:42:00 +0000
 featuredimage: v1529939102/rose-beer-beauty-043.jpg
-undefined:
-- Tech
-- Design
 tags:
 - Tech
 - Design
