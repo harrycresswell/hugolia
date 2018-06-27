@@ -14,5 +14,6 @@ fields:
   config:
     required: true
 pages:
+- hugo/content/posts/my-fifth-post.md
 - hugo/content/posts/my-first-post.md
 - hugo/content/posts/nine.md
