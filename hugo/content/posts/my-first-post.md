@@ -8,4 +8,4 @@ featuredimage: v1529939102/rose-beer-beauty-037.jpg
 
 Hi, I am the _Hugo Boilerplate_. I hope you are enjoying this guide!
 
-![](https://res.cloudinary.com/dagngxlx5/image/upload/v1529939102/rose-beer-beauty-037.jpg)
+{{< cld src="v1529939102/rose-beer-beauty-037.jpg" >}}
