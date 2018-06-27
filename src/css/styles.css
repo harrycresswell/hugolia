@@ -8,10 +8,15 @@
 body {
   font-family: sans-serif;
   font-size: 1em;
+  margin: 32px;
 }
 
 img {
   max-width: 100%;
+}
+
+#search-box {
+  display: inline-block;
 }
 
 .Search-hits {
@@ -19,4 +24,15 @@ img {
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: auto;
   grid-gap: 32px;
+  margin-top: 64px;
+}
+
+.algolia {
+  display: inline-block;
+  margin-left: 32px;
+  line-height: 46px;
+
+  img {
+    vertical-align: middle;
+  }
 }
