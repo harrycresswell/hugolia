@@ -25,17 +25,17 @@ search.addWidget(
     placeholder: 'Search for post',
     reset: false,
     cssClasses: {
-     root: 'Search-box__container',
-     input: 'Search-box__input',
+     root: 'Search-box-container',
+     input: 'Search-box-input',
     }
   })
 );
 
 // create variable for custom hit template
 var hitTemplate =
-  '<a href="{{ permalink }}" class="List__item">' +
+  '<a href="{{ permalink }}" class="List-item">' +
       '<div class="List-image">' +
-        '<img data-src="https://res.cloudinary.com/dagngxlx5/image/upload/w_auto,dpr_auto,c_scale/{{{featuredimage}}}" class="cld-responsive" />'
+        '<img src="https://res.cloudinary.com/dagngxlx5/image/upload/w_auto,dpr_auto,c_scale/{{{featuredimage}}}" />'
     + '</div>' +
       '<div class="List-title">{{{_highlightResult.title.value}}}</div>' +
   '</a>'
