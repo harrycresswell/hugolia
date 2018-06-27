@@ -1,6 +1,7 @@
 ---
 title: My-Third-Post
-date: 2018-05-30 12:42:42 +0200
+date: 2018-05-30 10:42:42 +0000
+featuredimage: v1529939100/rose-beer-beauty-072.jpg
 
 ---
-This is my third post
+{{< cld src="v1529939100/rose-beer-beauty-072.jpg" >}}
