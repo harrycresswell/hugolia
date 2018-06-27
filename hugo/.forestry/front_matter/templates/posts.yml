@@ -13,6 +13,8 @@ fields:
   label: Featured Image
   config:
     required: true
+- type: tag_list
+  default: []
 pages:
 - hugo/content/posts/example.md
 - hugo/content/posts/my-forth-post.md
