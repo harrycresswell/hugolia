@@ -24,5 +24,5 @@ home = ["HTML", "RSS", "Algolia"]
 author = "Harry Cresswell"
 description = "Write an awesome description for your new site here. You can edit this\nline in config.yml. It will appear in your document head meta (for\nGoogle search results) and in your RSS feed description.\n"
 [params.algolia]
-params = ["categories", "tags"]
+params = ["featuredimage", "categories", "tags"]
 vars = ["featuredimage", "title", "summary", "date", "publishdate", "expirydate", "permalink", "tags"]
