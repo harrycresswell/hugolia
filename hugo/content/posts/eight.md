@@ -5,3 +5,4 @@ draft: true
 featuredimage: v1529938335/rose-beer-beauty-2.jpg
 
 ---
+{{< cld src="v1529938335/rose-beer-beauty-2.jpg" >}}
