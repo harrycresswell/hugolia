@@ -19,4 +19,3 @@ fields:
   default: true
 pages:
 - hugo/content/posts/seven.md
-- hugo/content/posts/my-sixth-post.md
