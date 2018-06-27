@@ -1,7 +1,11 @@
 ---
 title: My-Forth-Post
-date: 2018-05-30 13:20:41 +0200
+date: 2018-05-30 11:20:41 +0000
+featuredimage: v1529939101/rose-beer-beauty-048.jpg
 
 ---
 ## Hello world
+
 This is my forth post
+
+{{< cld src="v1529939101/rose-beer-beauty-048.jpg" >}}
