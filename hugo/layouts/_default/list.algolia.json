@@ -25,6 +25,7 @@
     {{- .Scratch.SetInMap "temp" "lastmod" $hit.Lastmod.UTC.Unix -}}
     {{- .Scratch.SetInMap "temp" "permalink" $hit.Permalink -}}
     {{- .Scratch.SetInMap "temp" "featuredimage" $hit.featuredimage -}}
+    {{- .Scratch.SetInMap "temp" "tags" $hit.tags -}}
     {{- .Scratch.SetInMap "temp" "publishdate" $hit.PublishDate -}}
     {{- .Scratch.SetInMap "temp" "readingtime" $hit.ReadingTime -}}
     {{- .Scratch.SetInMap "temp" "relpermalink" $hit.RelPermalink -}}

@@ -63,7 +63,7 @@ search.addWidget(
 search.addWidget(
   instantsearch.widgets.refinementList({
     container: '#refinement-list',
-    attributeName: 'categories'
+    attributeName: 'tags'
   })
 );
 
