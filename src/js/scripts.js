@@ -33,12 +33,12 @@ search.addWidget(
 
 // create variable for custom hit template
 var hitTemplate =
-  '<a href="{{ relpermalink }}" class="List__item">' +
+  '<a href="{{ permalink }}" class="List__item">' +
       '<div class="List-image">' +
         '<img data-src="https://res.cloudinary.com/dagngxlx5/image/upload/w_auto,dpr_auto,c_scale/{{{featuredimage}}}" class="cld-responsive" />'
     + '</div>' +
       '<div class="List-title">{{{_highlightResult.title.value}}}</div>' +
-  '</a>' 
+  '</a>'
 + '<div class="List-summary">{{{summary}}}</div>';
 
 
