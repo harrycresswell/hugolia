@@ -5,6 +5,7 @@ featuredimage: v1530789175/ain/marketplace/marketplace-card-charlie-hr.jpg
 tags:
 - Tech
 - Design
+slug: charliehr
 
 ---
 ## Charlie HR
