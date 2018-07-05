@@ -5,4 +5,6 @@ tags = ["Legal", "Finance"]
 title = "SeedLegals"
 
 +++
+# SeedLegals
+
 {{< cld src="v1530789203/ain/marketplace/marketplace-card-seedlegals.jpg" >}}
