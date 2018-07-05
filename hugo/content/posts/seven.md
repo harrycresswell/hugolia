@@ -5,4 +5,4 @@ tags = ["Marketing", "Finance"]
 title = "TaxForward"
 
 +++
-{{< cld src=“v1530789207/ain/marketplace/marketplace-card-taxforward.jpg” >}}
+{{< cld src="v1530789207/ain/marketplace/marketplace-card-taxforward.jpg" >}}
