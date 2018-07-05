@@ -6,6 +6,7 @@ undefined:
 - Office Space
 tags:
 - office space
+slug: hubble
 
 ---
 ## Hubble
