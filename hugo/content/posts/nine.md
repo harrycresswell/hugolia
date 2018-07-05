@@ -5,4 +5,4 @@ tags = ["Legal", "Finance"]
 title = "SeedLegals"
 
 +++
-{{< cld src=“v1530789203/ain/marketplace/marketplace-card-seedlegals.jpg” >}}
+{{< cld src="v1530789203/ain/marketplace/marketplace-card-seedlegals.jpg" >}}
