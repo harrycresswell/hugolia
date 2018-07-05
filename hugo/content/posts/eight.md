@@ -5,6 +5,7 @@ featuredimage: v1530789199/ain/marketplace/marketplace-card-pivigo.jpg
 tags:
 - Legal
 - Finance
+slug: pivigo
 
 ---
 # Pivigo
