@@ -1,10 +1,11 @@
 ---
-title: Eight
-date: 2018-06-26 17:28:15 +0100
-draft: true
-featuredimage: v1529938335/rose-beer-beauty-2.jpg
+title: Pivigo
+date: 2018-06-26 16:28:15 +0000
+featuredimage: v1530789199/ain/marketplace/marketplace-card-pivigo.jpg
 tags:
 - Legal
 - Finance
+draft: true
+
 ---
-{{< cld src="v1529938335/rose-beer-beauty-2.jpg" >}}
+{{< cld src="v1530789199/ain/marketplace/marketplace-card-pivigo.jpg" >}}
