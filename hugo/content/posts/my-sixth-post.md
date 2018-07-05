@@ -2,7 +2,7 @@
 date = "2018-05-30T19:26:15Z"
 featuredimage = "v1530789194/ain/marketplace/marketplace-card-kontor.jpg"
 slug = "kontor"
-tags = ["Tools", "Design"]
+tags = ["Tools", "Design", "Office space"]
 title = "Kontor"
 
 +++
