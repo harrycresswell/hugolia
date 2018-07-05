@@ -19,10 +19,10 @@ fields:
   name: tags
 pages:
 - hugo/content/posts/example.md
-- hugo/content/posts/my-forth-post.md
-- hugo/content/posts/my-second-post.md
-- hugo/content/posts/my-sixth-post.md
-- hugo/content/posts/my-third-post.md
-- hugo/content/posts/my-fifth-post.md
-- hugo/content/posts/my-first-post.md
 - hugo/content/posts/nine.md
+- hugo/content/posts/my-third-post.md
+- hugo/content/posts/my-forth-post.md
+- hugo/content/posts/my-first-post.md
+- hugo/content/posts/my-second-post.md
+- hugo/content/posts/my-fifth-post.md
+- hugo/content/posts/my-sixth-post.md
