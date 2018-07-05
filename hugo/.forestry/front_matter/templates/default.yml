@@ -17,5 +17,3 @@ fields:
   type: boolean
   hidden: false
   default: true
-pages:
-- hugo/content/posts/seven.md

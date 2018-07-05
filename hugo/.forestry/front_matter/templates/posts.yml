@@ -19,6 +19,7 @@ fields:
   name: tags
 pages:
 - hugo/content/posts/example.md
+- hugo/content/posts/seven.md
 - hugo/content/posts/nine.md
 - hugo/content/posts/my-third-post.md
 - hugo/content/posts/my-forth-post.md
