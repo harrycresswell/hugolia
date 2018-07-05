@@ -7,6 +7,8 @@ tags:
 - Design
 
 ---
+# BrighterBox
+
 {{< cld src="v1530789153/ain/marketplace/marketplace-card-brighterbox.jpg" >}}
 
 You’ll find this post in your `content/posts` directory.
