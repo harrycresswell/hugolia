@@ -17,6 +17,10 @@ fields:
   default: []
   label: Tags
   name: tags
+- type: text
+  label: Slug
+  name: slug
+  description: Add a URL slug to control the URL output
 pages:
 - hugo/content/posts/example.md
 - hugo/content/posts/seven.md
