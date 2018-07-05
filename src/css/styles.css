@@ -6,6 +6,7 @@
 @import "imports/reset.css";
 
 body {
+  background: #F5F8FB;
   font-family: sans-serif;
   font-size: 1em;
   margin: 32px;
@@ -21,10 +22,22 @@ img {
 
 .Search-hits {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr;
   grid-template-rows: auto;
   grid-gap: 32px;
   margin-top: 48px;
+}
+
+@media screen and (min-width: 760px) {
+  .Search-hits {
+    grid-template-columns:  1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .Search-hits {
+    grid-template-columns:  1fr 1fr 1fr;
+  }
 }
 
 .refinement-list {
