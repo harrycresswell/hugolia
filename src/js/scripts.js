@@ -35,7 +35,7 @@ search.addWidget(
 var hitTemplate =
   '<a href="{{ permalink }}" class="List-item">' +
       '<div class="List-image">' +
-        '<img src="https://res.cloudinary.com/dagngxlx5/image/upload/w_auto,dpr_auto,c_scale/{{{featuredimage}}}" />'
+        '<img src="https://res.cloudinary.com/harrycresswell/image/upload/w_auto,dpr_auto,c_scale/{{{featuredimage}}}" />'
     + '</div>' +
       '<div class="List-title">{{{_highlightResult.title.value}}}</div>' +
   '</a>'
