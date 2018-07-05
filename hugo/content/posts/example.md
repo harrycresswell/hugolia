@@ -5,6 +5,7 @@ featuredimage: v1530789153/ain/marketplace/marketplace-card-brighterbox.jpg
 tags:
 - Tech
 - Design
+slug: brighterbox
 
 ---
 # BrighterBox
