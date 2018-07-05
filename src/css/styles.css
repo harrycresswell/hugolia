@@ -24,7 +24,11 @@ img {
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: auto;
   grid-gap: 32px;
-  margin-top: 64px;
+  margin-top: 48px;
+}
+
+.refinement-list {
+  margin-top: 48px;
 }
 
 .algolia {
