@@ -10,6 +10,7 @@ tags:
 undefined:
 - Finance
 - Design
+slug: growthhackers
 
 ---
 {{< cld src="v1530789180/ain/marketplace/marketplace-card-growth-hackers.jpg" >}}
