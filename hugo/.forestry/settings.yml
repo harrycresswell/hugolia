@@ -4,12 +4,16 @@ auto_deploy: true
 admin_path: 
 webhook_url: https://wt-accba830f1ac7a6e3bfbe6f9406b858a-0.sandbox.auth0-extend.com/atomic-algolia-dev-main
 sections:
-- path: hugo/content/posts
+- type: directory
+  path: hugo/content/posts
   label: Posts
   create: all
-- path: hugo/content
+  match: "**/*"
+- type: directory
+  path: hugo/content
   label: Pages
   create: all
+  match: "*"
 upload_dir: ''
 public_path: https://res.cloudinary.com/harrycresswell/image/upload
 front_matter_path: ''

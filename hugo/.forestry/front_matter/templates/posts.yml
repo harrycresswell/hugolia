@@ -1,4 +1,5 @@
 ---
+label: Posts
 hide_body: false
 is_partial: false
 fields:
@@ -21,6 +22,10 @@ fields:
   label: Slug
   name: slug
   description: Add a URL slug to control the URL output
+- type: file
+  name: list_image
+  label: List Image
+  description: Image that shows in the list view
 pages:
 - hugo/content/posts/example.md
 - hugo/content/posts/seven.md
