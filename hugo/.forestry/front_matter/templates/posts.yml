@@ -27,6 +27,10 @@ fields:
   label: List Image
   description: Image that shows in the list view
   default: ''
+- type: image_gallery
+  name: gallery
+  label: Gallery
+  description: Choose four image for the gallery
 pages:
 - hugo/content/posts/example.md
 - hugo/content/posts/seven.md
