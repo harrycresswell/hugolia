@@ -26,7 +26,7 @@ fields:
   name: list_image
   label: List Image
   description: Image that shows in the list view
-  default: https://res.cloudinary.com/harrycresswell/image/upload/v1542889069/hc/practical-javascript-data-types-comparisons-harry-cresswell-example-5.gif
+  default: ''
 pages:
 - hugo/content/posts/example.md
 - hugo/content/posts/seven.md
