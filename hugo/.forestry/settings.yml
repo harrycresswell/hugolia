@@ -16,7 +16,7 @@ sections:
   match: "*"
 upload_dir: ''
 public_path: https://res.cloudinary.com/harrycresswell/image/upload
-front_matter_path: ''
-use_front_matter_path: 
+front_matter_path: https://res.cloudinary.com/harrycresswell/image/upload/w_auto,dpr_auto,c_scale/ain/marketplace
+use_front_matter_path: true
 file_template: ":filename:"
 version: 0.38.1
